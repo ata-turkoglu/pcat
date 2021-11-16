@@ -1,0 +1,22 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "\"# pcat\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ata-turkoglu/pcat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ata-turkoglu/pcat/issues"
+  },
+  "homepage": "https://github.com/ata-turkoglu/pcat#readme",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
+}
